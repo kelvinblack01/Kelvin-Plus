@@ -1,4 +1,4 @@
-**projeto Alura Plus**
+**Projeto Alura Plus**
 
 #Kelvin Plus
 #Alura
