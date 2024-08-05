@@ -1,3 +1,5 @@
 **projeto Alura Plus**
 
-#Kelvn Plus
+#Kelvin Plus
+#Alura
+#Simples
